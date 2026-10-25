@@ -1,6 +1,6 @@
 x = int(input("number 1 : "))
 y = int(input("number 2 : "))
-z = int(input("number 3  : "))
+z = int(input("number 3 : "))
 
 my_array = [x, y, z]
 largest = None
