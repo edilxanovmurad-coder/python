@@ -3,6 +3,6 @@ password = "python123"
 userPassword = input("password :" )
 
 if password == userPassword:
-    print("currect")
+    print("correct")
 else:
-    print("incurrect")
+    print("incorrect")
